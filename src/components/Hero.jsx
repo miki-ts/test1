@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import mikiyasAvatar from '../assets/mikiyas_avatar.png';
+import mikiyasAvatar from '../assets/miki.jpg';
 
 export default function Hero() {
   const [username, setUsername] = useState('');
