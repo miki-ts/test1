@@ -66,7 +66,7 @@ export default function Hero() {
           {/* Information */}
           <div className="text-center">
             <h4 className="text-base font-bold text-neutral-800">Mikiyas Tesfaye</h4>
-            <p className="text-[10px] text-neutral-500 uppercase tracking-widest font-semibold mt-0.5">Software Engineer</p>
+            <p className="text-[10px] text-neutral-500 uppercase tracking-widest font-semibold mt-0.5">Founder of IDtree</p>
           </div>
         </motion.div>
 
